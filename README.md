@@ -26,3 +26,7 @@ This isn't really necessary with EC2.
 2) droplet-nginx.sh
 
 Nginx installation and then configured with SSL using Let's Encrypt certificates.
+
+3) droplet-nodejs.sh
+
+Basic overall config to install node & pm2, configure systemd, update nginx, and get the app running.
